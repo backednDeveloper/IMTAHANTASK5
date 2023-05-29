@@ -64,6 +64,4 @@ public class Methods {
                 .reduce((integer, integer2) -> integer + integer2).orElse(0);
     }
 
-
-
 }
